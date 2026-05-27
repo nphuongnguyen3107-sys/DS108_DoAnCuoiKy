@@ -24,7 +24,7 @@
 - Đánh giá thống kê ý nghĩa của sự khác biệt giữa các models (Diebold-Mariano, Paired t-test)
 
 ## Cấu Trúc Dự Án
-
+```text
 KHÍ HẬU ĐỒ ÁN/
 ├── data/
 │   ├── raw/                          # Dữ liệu thô (không được sửa)
@@ -189,7 +189,7 @@ CONFIG = {
 
 ---
 
-## 📦 Thư Viện Sử Dụng
+## Thư Viện Sử Dụng
 
 pandas, numpy, requests, joblib, matplotlib, seaborn, missingno
 scipy, statsmodels, sklearn, xgboost
